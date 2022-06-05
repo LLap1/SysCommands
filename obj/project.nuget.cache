@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oo+VZ1SoPVchdkXMDUaj9q//P1vilKcYDq/0q/Aey5y0Aa6egAYe+kNkpLBqe5a43goigw1jP4pSM7TFQ91HxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\Kadatz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lapid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lapid\\.nuget\\packages\\system.commandline\\2.0.0-beta3.22114.1\\system.commandline.2.0.0-beta3.22114.1.nupkg.sha512",
+    "C:\\Users\\lapid\\.nuget\\packages\\system.commandline.dragonfruit\\0.4.0-alpha.22114.1\\system.commandline.dragonfruit.0.4.0-alpha.22114.1.nupkg.sha512",
+    "C:\\Users\\lapid\\.nuget\\packages\\system.commandline.namingconventionbinder\\2.0.0-beta3.22114.1\\system.commandline.namingconventionbinder.2.0.0-beta3.22114.1.nupkg.sha512",
+    "C:\\Users\\lapid\\.nuget\\packages\\system.commandline.rendering\\0.4.0-alpha.22114.1\\system.commandline.rendering.0.4.0-alpha.22114.1.nupkg.sha512"
+  ],
+  "logs": []
+}

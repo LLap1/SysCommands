@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\Kadatz.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\Kadatz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\Kadatz.csproj",
+        "projectName": "Kadatz",
+        "projectPath": "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\Kadatz.csproj",
+        "packagesPath": "C:\\Users\\lapid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lapid\\Documents\\GitHub\\Kadatz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lapid\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta3.22114.1, )"
+            },
+            "System.CommandLine.DragonFruit": {
+              "target": "Package",
+              "version": "[0.4.0-alpha.22114.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

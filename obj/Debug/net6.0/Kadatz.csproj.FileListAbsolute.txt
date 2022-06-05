@@ -1,0 +1,15 @@
+C:\Users\lapid\Documents\GitHub\Kadatz\bin\Debug\net6.0\Kadatz.exe
+C:\Users\lapid\Documents\GitHub\Kadatz\bin\Debug\net6.0\Kadatz.deps.json
+C:\Users\lapid\Documents\GitHub\Kadatz\bin\Debug\net6.0\Kadatz.runtimeconfig.json
+C:\Users\lapid\Documents\GitHub\Kadatz\bin\Debug\net6.0\Kadatz.dll
+C:\Users\lapid\Documents\GitHub\Kadatz\bin\Debug\net6.0\Kadatz.pdb
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.csproj.AssemblyReference.cache
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.AssemblyInfoInputs.cache
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.AssemblyInfo.cs
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.csproj.CoreCompileInputs.cache
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.dll
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\refint\Kadatz.dll
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.pdb
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\Kadatz.genruntimeconfig.cache
+C:\Users\lapid\Documents\GitHub\Kadatz\obj\Debug\net6.0\ref\Kadatz.dll
